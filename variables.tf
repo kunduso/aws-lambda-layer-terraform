@@ -18,23 +18,8 @@ variable "secret_key" {
   sensitive   = true
   default     = ""
 }
-variable "name" {
-  description = "The name of the application."
+variable "organization_id" {
+  description = "The ID of the organization."
   type        = string
-  default     = "app-12"
-}
-variable "vpc_cidr" {
-  description = "The CIDR of the VPC."
-  type        = string
-  default     = "15.25.15.0/26"
-}
-variable "subnet_cidr_db" {
-  description = "The CIDR blocks for the subnets."
-  type        = list(any)
-  default     = ["15.25.15.0/28", "15.25.15.16/28"]
-}
-variable "lambda_log_group_prefix" {
-  description = "The name of the log group."
-  type        = string
-  default     = "/aws/lambda/"
+  default     = ""
 }
