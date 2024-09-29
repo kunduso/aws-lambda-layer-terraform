@@ -1,5 +1,6 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-white.svg)](https://choosealicense.com/licenses/unlicense/) [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/kunduso/aws-lambda-layer-terraform)](https://GitHub.com/kunduso/aws-lambda-layer-terraform/pull/) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/kunduso/aws-lambda-layer-terraform)](https://GitHub.com/kunduso/aws-lambda-layer-terraform/pull/) 
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/kunduso/aws-lambda-layer-terraform)](https://github.com/kunduso/aws-lambda-layer-terraform/issues?q=is%3Aissue+is%3Aclosed) [![GitHub issues](https://img.shields.io/github/issues/kunduso/aws-lambda-layer-terraform)](https://GitHub.com/kunduso/aws-lambda-layer-terraform/issues/)
+[![terraform-infra-provisioning](https://github.com/kunduso/aws-lambda-layer-terraform/actions/workflows/terraform.yml/badge.svg?branch=main)](https://github.com/kunduso/aws-lambda-layer-terraform/actions/workflows/terraform.yml) [![checkov-static-analysis-scan](https://github.com/kunduso/aws-lambda-layer-terraform/actions/workflows/code-scan.yml/badge.svg?branch=main)](https://github.com/kunduso/aws-lambda-layer-terraform/actions/workflows/code-scan.yml)
 ![Image](https://skdevops.files.wordpress.com/2024/09/102-image-0.png)
 
 ## Introduction
